@@ -71,7 +71,7 @@ header { background: linear-gradient(90deg, #0f3460, #1e3a8a); color:var(--text-
 <!-- Welcome Page -->
 <div id="welcomePage">
   <div class="wrap">
-    <div class="banner"><span class="banner-dot"></span>Welcome to Mtaiirus Nt App Store</div>
+    <div class="banner"><span class="banner-dot"></span>Welcome to Mtaiirus Pw App Store</div>
     <div class="welcome-card">
       <div class="welcome-logo">🛍</div>
       <h1>Mtaiirus Nt App Store</h1>
